@@ -1,5 +1,5 @@
 1. Navigate to the API directory:
-`cd /home/mbadi/Desktop/Egertone/sms-emmy/api`
+`cd ./api`
 
 2. Create a Python virtual environment (recommended):
 `python3 -m venv venv`
