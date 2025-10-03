@@ -1,6 +1,0 @@
-Flask
-phonenumbers
-SQLAlchemy
-Flask-SQLAlchemy
-Flask-Limiter
-prometheus-client
